@@ -1,0 +1,27 @@
+{
+  "name": "com.kingdox.uniflux.drag",
+  "displayName": "UniFlux.Drag",
+  "version": "1.0.0",
+  "author": "Kingdox",
+  "unity": "2019.3",
+  "description": "Drag Module",
+  "keywords": [
+    "flux",
+    "unity",
+    "uniflux"
+  ],
+  "dependencies": {
+    "com.kingdox.uniflux":"^1.0.0"
+  },
+  "license": "MIT",
+  "category": "Flux",
+  "repository": 
+  {
+    "url": "https://github.com/kingdox/UniFlux.Drag.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/kingdox/UniFlux/issues"
+  },
+  "homepage": "https://github.com/kingdox/UniFlux#readme"
+}
